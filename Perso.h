@@ -12,6 +12,7 @@ class myTeam{
         int getAttaque();
         void setPv(int);
         myTeam();
+
 };
 
 class enemie{
@@ -26,4 +27,5 @@ class enemie{
         int getAttaque();
         void setPv(int);
         enemie();
+
 };
