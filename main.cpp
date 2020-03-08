@@ -19,8 +19,9 @@ int main(){
         cout << " Voici les temtem que tu peux avoir: (1)Ganki (type elek), (2)Houchic (type mental), (3)Smazee (type feu)";
 
         cin << choix;
-/* Si ganki*/
+
     switch (choix){
+/* Si ganki*/
     case 1:
         cout << " Tu as choisi Ganki, attention ton premier combat débute!";
         cout << "Pharac sauvage apparaît ! ";
@@ -51,6 +52,7 @@ int main(){
                 break;
             }
     break;
+/* Si ganki*/
     case 2:
         cout << " Tu as choisi Houchic, attention ton premier combat débute!";
         cout << "Pharac sauvage apparaît ! ";
@@ -81,6 +83,7 @@ int main(){
                 break;
             }
     break;
+/* Si ganki*/
     case 3:
         cout << " Tu as choisi Smazee, attention ton premier combat débute!";
         cout << "Pharac sauvage apparaît ! ";
