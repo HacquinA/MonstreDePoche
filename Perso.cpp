@@ -5,9 +5,12 @@ myTeam::myTeam(); vie(50), attaque1(10), attaque2(20);
 void getVie(){
     return vie;
 }
-<<<<<<< Updated upstream
-=======
 
+
+void setVie(int vie){
+    vie += vie;
+}
 
 enemie::enemie(); vie(50), attaque1(10), attaque2(20);
->>>>>>> Stashed changes
+
+enemie::enemie(); vie(50), attaque1(10), attaque2(20);

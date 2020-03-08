@@ -12,8 +12,7 @@ class myTeam{
         int getAttaque();
         void setPv(int);
         myTeam();
-<<<<<<< Updated upstream
-=======
+
 };
 
 class enemie{
@@ -28,5 +27,5 @@ class enemie{
         int getAttaque();
         void setPv(int);
         enemie();
->>>>>>> Stashed changes
+
 };
